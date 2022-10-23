@@ -1,25 +1,23 @@
-# 1,john doe,john@gmail.com, johndoe
-# 2,sue doe,sue@gmail.com, suedoe
 # order,name,email,github account
-# example 
-# 0, Michel Lundell, michel@ketonix.com, michellundell
 
-1,Ali Karimi,
-2,Anda Stefania Ghita,,
+
+0, Michel Lundell, michel@ketonix.com, michellundell
+1,Ali Karimi, email, githubkonto
+2,Anda Stefania Ghita, email, githubkonto
 3,Daniel Barbis, daniel.barbis@studerande.movant.se, frowsty
 4,Daniel Örhill, daniel.orhill@studerande.movant.se, Gorillaism
 5,Hussein Ahmad, hussein.ahmad@studerande.movant.se, HusseinAhmad1
 6,Jesper Rehnfors, jesper.rehnfors@studerande.movant.se, Rehnfors
 7,Jimmy Barr, jimmy.barr@gmail.com, Jimnyb
 8,Joakim Englund, joakimenglund@protonmail.com, wayazaexa
-9,Julie Cantillep,, Julieanna97, kisamae1997@gmail.com
-10,Mohamud Abdi,,
-11,Nicolas Munoz,, Nicolas Munoz; nicolas.munoz@studerande.movant.se
-12,Sadiiq Kaysa,,
-13,Syed Kazmi,,
+9,Julie Cantillep, kisamae1997@gmail.com, Julieanna97
+10,Mohamud Abdi, email, githubkonto
+11,Nicolas Munoz, nicolas.munoz@studerande.movant.se, Nicolas Munoz
+12,Sadiiq Kaysa, email, githubkoto
+13,Syed Kazmi, email, githubkonto,
 14,Tobias Höglin,, tobias.hoglin@gmail.com, TobiasHoglin
-15,
-16,
-17,
-18,
-19,
+15 namn, email, githubkonto 
+16 namn, email, githubkonto
+17 namn, email, githubkonto
+18 namn, email, githubkonto
+19 namn, email, githubkonto
